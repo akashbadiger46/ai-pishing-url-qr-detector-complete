@@ -1,0 +1,7 @@
+SENTINEL - AI-Based Phishing URL and QR Code Detector System
+UI design: Premium Dark Security SaaS (deep navy, blue gradients, cyan accents).
+
+Start: run setup_and_run.bat on Windows.
+Dataset: data/urls_demo.csv is synthetic demo data only.
+Training: train_model.py compares four scikit-learn classifiers.
+Safety: screening aid only; never treat a likely legitimate result as a guarantee.

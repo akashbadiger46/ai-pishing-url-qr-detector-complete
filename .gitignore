@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+model/*.joblib
+model/metrics.json
+uploads/*
+!uploads/.gitkeep
+.env
